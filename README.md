@@ -1,8 +1,10 @@
 TASK 1
+
 The solutions with BC impose can be found at task1.ipynb
 
 
 TASK 2
+
 This part can be found in second.ipynb notebook.
 The Dynamical equations are that was solved are given in the notebook itself.
 
