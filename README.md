@@ -1,7 +1,5 @@
 TASK 1
-The Project.ipynb file is without imposing the BC conditions.
-
-TO see the effects of Boundary Conditions, refer to BC.ipynb
+The solutions with BC impose can be found at task1.ipynb
 
 
 TASK 2
