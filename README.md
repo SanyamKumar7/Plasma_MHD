@@ -5,7 +5,7 @@ The solutions with BC impose can be found at task1.ipynb
 
 TASK 2
 
-This part can be found in second.ipynb notebook.
+This part can be found in Task2.ipynb notebook.
 The Dynamical equations are that was solved are given in the notebook itself.
 
 [step-1] For different alpha values the, Graphs of Evolution of Br and Bphi with respect to time and space are shown separately.
